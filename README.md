@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A8D6D&center=true&vCenter=true&random=false&width=435&lines=%E9%80%9D%E8%80%85%E5%A6%82%E6%96%AF%E5%A4%AB%E4%B8%8D%E8%88%8D%E6%98%BC%E5%A4%9C)](https://git.io/typing-svg)
+
 <!--
 **Beemo37/Beemo37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
